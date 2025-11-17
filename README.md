@@ -9,10 +9,10 @@ A natural-language programming language that compiles to Python, designed for re
 🪟 **Windows (No Python Required)**  
 
 Download all 3 parts:
-- [Part 1](https://github.com/AbuCodingAI/AbuLang/releases/latest/download/AbuLang-1.0-Windows.part1) (20 MB)
-- [Part 2](https://github.com/AbuCodingAI/AbuLang/releases/latest/download/AbuLang-1.0-Windows.part2) (20 MB)
-- [Part 3](https://github.com/AbuCodingAI/AbuLang/releases/latest/download/AbuLang-1.0-Windows.part3) (2 MB)
-- [INSTALL.bat](https://github.com/AbuCodingAI/AbuLang/releases/latest/download/INSTALL.bat)
+- [Part 1](https://github.com/AbuCodingAI/AbuLangIDLE/releases/latest/download/AbuLang-1.0-Windows.part1) (20 MB)
+- [Part 2](https://github.com/AbuCodingAI/AbuLangIDLE/releases/latest/download/AbuLang-1.0-Windows.part2) (20 MB)
+- [Part 3](https://github.com/AbuCodingAI/AbuLangIDLE/releases/latest/download/AbuLang-1.0-Windows.part3) (2 MB)
+- [INSTALL.bat](https://github.com/AbuCodingAI/AbuLangIDLE/releases/latest/download/INSTALL.bat)
 
 **To Install:**
 1. Download all 4 files to the same folder
